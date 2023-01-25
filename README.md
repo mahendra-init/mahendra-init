@@ -15,19 +15,12 @@ These are the technologies and tools I am proficient in. I have used these techn
 
 ### **Projects**
 -> Built an e-commerce website(amazon clone) :moneybag:
-
 -> Built a food ordering website :hamburger:
-
 -> Built a REST-API for a task management app :clipboard:
-
 -> Built a weather forecasting website :cloud:
-
 -> Built a real-time chatroom :speech_balloon:
-
 -> Built several static websites such as food blogs, portfolio websites :notebook:
-
 -> Built a modern UI/UX website containing some cool stuff regarding Chat GPT-3 :robot:
-
 
 
 As a leader of my team for the past three academic projects, I have developed a deep understanding of team management and project planning :briefcase:. I am confident in my ability to apply my knowledge and skills to build something truly great during a hackathon :computer:. With a passion for technology and a drive to succeed :rocket:, I am a valuable asset to any team and am sure to make a significant impact in the world of web development :sparkles:.
