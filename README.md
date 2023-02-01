@@ -14,7 +14,7 @@ I am a skilled and passionate Full Stack Web Developer currently in my 3rd year 
 These are the technologies and tools I am proficient in. I have used these technologies extensively to build a variety of websites and applications. The MERN stack is particularly useful for building full-stack web applications. Tailwind CSS is a powerful utility-first CSS framework that helps to make my CSS more maintainable and efficient. Firebase is a great tool for building scalable, real-time web and mobile applications.
 
 ### **Projects**
-- An E-commerce website(amazon clone) :moneybag:
+- [An E-commerce website(amazon clone) :moneybag:](https://clone-39de5.web.app/)
 - Food ordering website :hamburger:
 - REST-API for a task management app :clipboard:
 - [Portfolio websites :notebook:](https://mahendra-yadav.netlify.app/) 
